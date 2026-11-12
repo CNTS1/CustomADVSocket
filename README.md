@@ -261,7 +261,7 @@ This example demonstrates the existing client-side API. A compatible server must
 The complete API reference, including function descriptions, parameters, return values, and implementation details, is available through the project's documentation website.
 
 <p align="center">
-  <a href="YOUR_DOCUMENTATION_URL">
+  <a href="[YOUR_DOCUMENTATION_URL](https://kalikali-lgtml.github.io/NetEngineLib/)">
     <strong>📖 Explore the Full NetEngine API Documentation</strong>
   </a>
 </p>
